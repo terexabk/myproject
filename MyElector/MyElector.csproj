@@ -74,6 +74,18 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ucCoDong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCoDong.Designer.cs">
+      <DependentUpon>ucCoDong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucVanDeBieuQuyet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucVanDeBieuQuyet.Designer.cs">
+      <DependentUpon>ucVanDeBieuQuyet.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -86,6 +98,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ucCoDong.resx">
+      <DependentUpon>ucCoDong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucVanDeBieuQuyet.resx">
+      <DependentUpon>ucVanDeBieuQuyet.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="mydbDataSet.xsc">
       <DependentUpon>mydbDataSet.xsd</DependentUpon>
     </None>
