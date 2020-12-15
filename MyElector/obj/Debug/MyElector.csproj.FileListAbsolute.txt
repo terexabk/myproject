@@ -1,0 +1,12 @@
+D:\Programming\C#\MyElector\MyElector\MyElector\bin\Debug\mydb.mdf
+D:\Programming\C#\MyElector\MyElector\MyElector\bin\Debug\mydb_log.ldf
+D:\Programming\C#\MyElector\MyElector\MyElector\bin\Debug\MyElector.exe.config
+D:\Programming\C#\MyElector\MyElector\MyElector\bin\Debug\MyElector.exe
+D:\Programming\C#\MyElector\MyElector\MyElector\bin\Debug\MyElector.pdb
+D:\Programming\C#\MyElector\MyElector\MyElector\obj\Debug\MyElector.csprojAssemblyReference.cache
+D:\Programming\C#\MyElector\MyElector\MyElector\obj\Debug\MyElector.Form1.resources
+D:\Programming\C#\MyElector\MyElector\MyElector\obj\Debug\MyElector.Properties.Resources.resources
+D:\Programming\C#\MyElector\MyElector\MyElector\obj\Debug\MyElector.csproj.GenerateResource.cache
+D:\Programming\C#\MyElector\MyElector\MyElector\obj\Debug\MyElector.csproj.CoreCompileInputs.cache
+D:\Programming\C#\MyElector\MyElector\MyElector\obj\Debug\MyElector.exe
+D:\Programming\C#\MyElector\MyElector\MyElector\obj\Debug\MyElector.pdb
